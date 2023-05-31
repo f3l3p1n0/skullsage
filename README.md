@@ -45,7 +45,7 @@
    <p>Debo avisar de que los archivos de configuración están adaptados para un monitor que utiliza la resolución 1920 por 1080. Por tanto, esto deberás de tenerlo en cuenta ya que muchos de los aspectos visuales del sistema pueden mostrarse un tanto disorsionados. En máquinas virtuales puede ser mucho más notorio.</p>
    <p>En caso de que visualices ciertos aspectos distorsionados, recomiendo que cambies a una resolución optima. Puedes ayudarte con <strong>Xrandr</strong>.</p>
    <h3>👤 Autor</h3>
-   <p>Los dotfiles no han sido originados pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p>
+   <p>Los dotfiles no han sido originados al 100% pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p>
    <h3>📱 Redes sociales</h3>
    <a href="https://f3l3p1n0.github.io">Blog personal</a><br>
    <a href="https://www.youtube.com/@f3l3p1n0">Youtube</a><br>
