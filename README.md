@@ -32,7 +32,13 @@
     <li>Acceder al directorio skullsage: cd skullsage</li>
     <li>Ejecutar el instalador (no root): bash install.sh</li>
     <li>Durante la instalación te pedirá instalar el tema de Rofi. Debes elegir el último tema y presionar <strong>enter</strong>. Posteriormente debes presionar <strong>Alt + a</strong>.</li>
-    <li>Deja que finalice la instalación hasta que se reinice el sistema automáticamente.</li>
+    <li>Deja que finalice la instalación hasta que se reinicie el sistema automáticamente.</li>
    </ol>
+   <p><strong>¡Atención! Debes tener en cuenta que durante la instalación se te pedirá que introduzcas la contraseña como 'sudo'. Debes introducirla y presionar enter para que pueda proseguir la instalación de forma correcta.</strong<</p>
   </body>
+ <h3>❌ Posibles problemas y soluciones</h3>
+ <h4>En este sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
+ <h5>El powermenu se visualiza distorsionado o no funciona</h5>
+ <p>El powermenu en mi caso, está configurado para que se pueda visualizar correctamente en la resolución 1920x1080.</p><br>
+ <p>Si en tu caso no lo visualizas correctamente, deberás dirigirte a la siguiente ruta: <strong>cd ~/.config/rofi/powermenu/</strong></p>
   </html>
