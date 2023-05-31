@@ -1,0 +1,71 @@
+# Dracula theme for Alacritty
+# https://draculatheme.com/alacritty
+#
+# Color palette
+# https://spec.draculatheme.com
+#
+# Template
+# https://github.com/alacritty/alacritty/blob/master/alacritty.yml
+
+window:
+  padding:
+   x: 30
+   y: 30
+
+font:
+    normal:
+        family: Hack Nerd Font
+        style: Regular
+ 
+    bold:
+        family: Hack Nerd Font
+        style: Bold
+ 
+    italic:
+        family: Hack Nerd Font
+        style: Italic
+ 
+    bold_italic:
+        family: Hack Nerd Font
+        style: Bold Italic
+ 
+    book:
+        family: Hack Nerd Font
+        style: Book
+ 
+    size: 11.3
+
+cursor:
+  style:
+    shape: Beam
+    blinking: Always
+  blink_interval: 500
+  unfocused_hollow: true
+  thickness: 0.15
+
+colors:
+  primary:
+    background: '#282828'
+    foreground: '#fbf1c7'
+  normal:
+    black:   '#a89984'
+    red:     '#cc241d'
+    green:   '#98971a'
+    yellow:  '#d79921'
+    blue:    '#458588'
+    magenta: '#b16286'
+    cyan:    '#689d6a'
+    white:   '#ebdbb2'
+  bright:
+    black:   '#a89984'
+    red:     '#fb4934'
+    green:   '#b8bb26'
+    yellow:  '#fabd2f'
+    blue:    '#83a598'
+    magenta: '#d3869b'
+    cyan:    '#8ec07c'
+    white:   '#ebdbb2'
+
+  cursor:
+    cursor: '#fbf1c7'
+    text:	'#282828'
