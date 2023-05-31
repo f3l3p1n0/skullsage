@@ -117,7 +117,8 @@ function paquetes() {
 # INSTALACION DE BETTERLOCKSCREEN
 
 function betterlockscreen() {
-    wget https://github.com/betterlockscreen/betterlockscreen/archive/refs/heads/main.zip
+    cd "$1/dotfiles/betterlockscreen"
+    sudo wget https://github.com/betterlockscreen/betterlockscreen/archive/refs/heads/main.zip
     sudo unzip main.zip
 
     cd betterlockscreen-main/
@@ -152,7 +153,7 @@ if [ $(whoami) != 'root' ]; then
     requerimientos
     paquetes
     copia "$ruta"
-    betterlockscreen
+    betterlockscreen "$ruta"
     finalizacion
 else
     echo 'Error, el script no debe ser ejecutado como root.'
