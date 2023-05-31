@@ -40,6 +40,6 @@
   <h5><ins>El powermenu se visualiza distorsionado o no funciona</ins></h5>
   <p>El powermenu en mi caso, está configurado para que se pueda visualizar correctamente en la resolución 1920x1080. Si en tu caso no lo visualizas correctamente, deberás dirigirte a la siguiente ruta: <strong>cd ~/.config/rofi/powermenu/</strong></p>
    <p>Posteriormente, deberás abrir el archivo <strong>config.rasi</strong></p>
-   <p>En este archivo debes modificar la línea: <strong>mainbox-margin</strong> del apartado Global Properties. Ajústa los parámetros a tu gusto, puedes probar con <strong>15px 40px</strong></p>
+   <p>En este archivo debes modificar la línea: <strong>mainbox-margin</strong> del apartado Global Properties. Ajusta los parámetros a tu gusto, puedes probar con <strong>15px 40px</strong>.</p>
   </body>
   </html>
