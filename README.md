@@ -36,7 +36,7 @@
    </ol>
    <p><strong>¡Atención!</strong> Debes tener en cuenta que durante la instalación se te pedirá que introduzcas la contraseña como 'sudo'. Debes introducirla y presionar enter para que puedas proseguir la instalación de forma correcta.</p>
    <h3>❌ Posibles problemas y soluciones</h3>
-  <h4>En este sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
+  <h4>En esta sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
   <h5><ins>El powermenu se visualiza distorsionado o no funciona</ins></h5>
   <p>El powermenu en mi caso, está configurado para que se pueda visualizar correctamente en la resolución 1920x1080. Si en tu caso no lo visualizas correctamente, deberás dirigirte a la siguiente ruta: <strong>cd ~/.config/rofi/powermenu/</strong></p>
    <p>Posteriormente, deberás abrir el archivo <strong>config.rasi</strong></p>
@@ -44,5 +44,12 @@
    <h5><ins>Cambiar resolución a 1920x1080</ins></h5>
    <p>Debo avisar de que los archivos de configuración están adaptados para un monitor que utiliza la resolución 1920 por 1080. Por tanto, esto deberás de tenerlo en cuenta ya que muchos de los aspectos visuales del sistema pueden mostrarse un tanto disorsionados. En máquinas virtuales puede ser mucho más notorio.</p>
    <p>En caso de que visualices ciertos aspectos distorsionados, recomiendo que cambies a una resolución optima. Puedes ayudarte con <strong>Xrandr</strong>.</p>
+   <h3>👤 Autor</h3>
+   <p>Los dotfiles no han sido originados pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p>
+   <h3>📱 Redes sociales</h3>
+   <a href="https://f3l3p1n0.github.io">Blog personal</a><br>
+   <a href="https://www.youtube.com/@f3l3p1n0">Youtube</a><br>
+   <a href="https://www.instagram.com/f3l3p1n0/?igshid=Mzc1MmZhNjY%3D">Youtube</a><br>
+   <a href="https://www.linkedin.com/in/marc-mañé-lobato/">Youtube</a><br>
   </body>
   </html>
