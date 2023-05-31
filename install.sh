@@ -89,8 +89,8 @@ function requerimientos() {
     cd yay-git
     makepkg --noconfirm -si
 
-    # git dash xsetroot xrandr xdpyinfo xrdb xset imagemagick megatools bc
-    sudo pacman -S --noconfirm git dash xorg-xsetroot xorg-xrandr xorg-xdpyinfo xorg-xrdb xorg-xset imagemagick megatools bc
+    # git dash xsetroot xrandr xdpyinfo xrdb xset imagemagick megatools bc unzip
+    sudo pacman -S --noconfirm git dash xorg-xsetroot xorg-xrandr xorg-xdpyinfo xorg-xrdb xorg-xset imagemagick megatools bc unzip
 
     # paru
     git clone https://aur.archlinux.org/paru.git
@@ -117,7 +117,7 @@ function paquetes() {
 
 function betterlockscreen() {
     wget https://github.com/betterlockscreen/betterlockscreen/archive/refs/heads/main.zip
-    unzip main.zip
+    sudo unzip main.zip
 
     cd betterlockscreen-main/
     chmod u+x betterlockscreen
