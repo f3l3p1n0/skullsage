@@ -38,7 +38,6 @@
   </body>
  <h3>❌ Posibles problemas y soluciones</h3>
  <h4>En este sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
- <h5>El powermenu se visualiza distorsionado o no funciona</h5>
- <p>El powermenu en mi caso, está configurado para que se pueda visualizar correctamente en la resolución 1920x1080.</p><br>
- <p>Si en tu caso no lo visualizas correctamente, deberás dirigirte a la siguiente ruta: <strong>cd ~/.config/rofi/powermenu/</strong></p>
+ <u><h5>El powermenu se visualiza distorsionado o no funciona</h5></u>
+ 
   </html>
