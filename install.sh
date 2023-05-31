@@ -36,6 +36,7 @@ function copia() {
     # rofi
     mkdir "$HOME/.config/rofi"
     cp -rv $1/dotfiles/rofi/* "$HOME/.config/rofi/"
+    chmod +x "$HOME/.config/rofi/powermenu/powermenu"
     rofi-theme-selector
 
     # zsh
