@@ -35,6 +35,7 @@
     <li>Deja que finalice la instalación hasta que se reinicie el sistema automáticamente.</li>
    </ol>
    <p><strong>¡Atención!</strong> Debes tener en cuenta que durante la instalación se te pedirá que introduzcas la contraseña como 'sudo'. Debes introducirla y presionar enter para que puedas proseguir la instalación de forma correcta.</p>
+   <p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: https://www.youtube.com/watch?v=KgO267o-iYE&ab_channel=f3l3p1n0</p>
    <h3>❌ Posibles problemas y soluciones</h3>
   <h4>En esta sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
   <h5><ins>El powermenu se visualiza distorsionado o no funciona</ins></h5>
