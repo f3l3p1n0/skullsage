@@ -5,7 +5,7 @@
    </p>
     <img src='https://i.postimg.cc/wvPnq09G/1.png'>
     <img src='https://i.postimg.cc/44BhwCmb/2023-05-26-13-47.png'>
-   <hr>
+   <br/>
    <h3>¡Saludos! ¡Gracias por venir! 💚</h3>
    <p>
     ¡Bienvenid@ a mis archivos de configuración de BSPWM!<br>
@@ -36,6 +36,7 @@
    </ol>
    <p><strong>¡Atención!</strong> Debes tener en cuenta que durante la instalación se te pedirá que introduzcas la contraseña como 'sudo'. Debes introducirla y presionar enter para que puedas proseguir la instalación de forma correcta.</p>
    <p>Te dejo por aquí un vídeo por si quieres realizar la instalación de una forma más guiada: https://www.youtube.com/watch?v=KgO267o-iYE&ab_channel=f3l3p1n0</p>
+   <hr>
    <h3>❌ Posibles problemas y soluciones</h3>
   <h4>En esta sección se abarcarán los posibles problemas y soluciones que vayan surgiendo:</h4>
   <h5><ins>El powermenu se visualiza distorsionado o no funciona</ins></h5>
@@ -48,8 +49,10 @@
    <h5><ins>La pantalla de bloqueo no carga la imagen correctamente o no se muestra como debería</ins></h5>
    <p>Para este caso lo que debes hacer es tener una imagen preparada. Debes situarte en el directorio donde se encuentra tu imagen. Posteriormente debes escribir la siguiente comanda en tu terminal: <strong>betterlockscreen -u ruta_de_tu_imagen</strong></p>
    <p>Espera que cargue tu imagen hasta visualizar <strong>'Done'</strong>. Finalmente podrás presionar <strong>ctrl + alt + l</strong> y visualizarás tu imagen en la pantalla de bloqueo.</p>
+   <hr>
    <h3>👤 Autor</h3>
    <p>Los dotfiles no han sido originados al 100% pero si configurados por mi, <a href="https://github.com/f3l3p1n0">f3l3p1n0</a>.</p>
+   <hr>
    <h3>📱 Redes sociales</h3>
    <a href="https://f3l3p1n0.github.io">Blog personal</a><br>
    <a href="https://www.youtube.com/@f3l3p1n0">Youtube</a><br>
