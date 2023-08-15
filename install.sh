@@ -20,8 +20,8 @@ function copia() {
     chmod +x "$HOME/.config/bspwm/bspwmrc"
 
     # wallpaper
-    mkdir "$HOME/.config/wallpapers"
-    cp -rv $1/dotfiles/wallpaper/* "$HOME/.config/wallpapers/"
+    mkdir "$HOME/.config/wallpaper"
+    cp -rv $1/dotfiles/wallpaper/* "$HOME/.config/wallpaper/"
 
     # polybar
     mkdir "$HOME/.config/polybar"
