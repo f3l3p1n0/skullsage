@@ -93,11 +93,6 @@ function requerimientos() {
     # git dash xsetroot xrandr xdpyinfo xrdb xset imagemagick megatools bc unzip
     sudo pacman -S --noconfirm git dash xorg-xsetroot xorg-xrandr xorg-xdpyinfo xorg-xrdb xorg-xset imagemagick megatools bc unzip
 
-    # paru
-    git clone https://aur.archlinux.org/paru.git
-    cd paru
-    makepkg --noconfirm -si
-
     # i3lock-color
     git clone https://aur.archlinux.org/i3lock-color.git
     cd i3lock-color
@@ -111,7 +106,7 @@ function paquetes() {
     sudo pacman -S --noconfirm alacritty bspwm sxhkd feh polybar picom flameshot rofi sddm zsh lsd bat zsh-syntax-highlighting zsh-autosuggestions
 
     # tema para sddm
-    paru -S --noconfirm sddm-theme-sugar-candy-git
+    yay -S --noconfirm sddm-theme-sugar-candy-git
 }
 
 # INSTALACION DE BETTERLOCKSCREEN
