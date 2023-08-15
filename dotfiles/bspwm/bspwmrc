@@ -34,7 +34,7 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
-feh --bg-fill ~/.config/wallpapers/old.jpg
+feh --bg-fill ~/.config/wallpaper/old.jpg
 
 #bspwm colores
 #bspc config normal_border_color         "#51576d"
