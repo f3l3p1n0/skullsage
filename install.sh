@@ -61,7 +61,7 @@ function copia() {
     # descarga de fuentes
     mkdir -v "$1/dotfiles/fonts"
     cd $1/dotfiles/fonts
-    megadl --print-names https://mega.nz/file/GxFVSLLY#etuNc6QRrEl6wgl_ZatvomojDhkBTFPqlKS7ELk7KAM
+    megadl --print-names https://mega.nz/file/6YV1wIgT#P4i5Z_jmnZm1Qm4yd5gI6g-7YR8EupKVZY1edgJKLec
 
     # fonts
     sudo cp -rv $1/dotfiles/fonts/* "/usr/share/fonts/"
